@@ -1,3 +1,4 @@
+//Anyone else feel free to add any other fun random features
 const body = document.querySelector("body");
 const colors = {
   0: {
